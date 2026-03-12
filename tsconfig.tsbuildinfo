@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/explainsidebar.tsx","./src/components/fileupload.tsx","./src/components/layout.tsx","./src/components/pdfviewer.tsx","./src/hooks/usepdfexplain.ts","./src/lib/gemini.ts","./src/lib/pdfutils.ts","./src/lib/types.ts","./src/stores/pdfstore.ts","./src/utils/mockresponses.ts","./vite-env.d.ts"],"version":"5.7.3"}
